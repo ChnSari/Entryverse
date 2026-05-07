@@ -14,14 +14,10 @@ Instead of static forms, users are welcomed into a **living 3D environment** —
 
 ##  Preview
 
-<<<<<<< HEAD
 <p align="center">
   <img src="public/img/1.png" width="100%" />
 </p>
 =======
-<img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/public/img/1.gif" width="100%" />
->>>>>>> 4e1c7a91b9e178150ba66dfc640df9c459e0fa82
-
 ---
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,react,npm,nodejs,mysql,figma,photoshop,wordpress" height="40" />
