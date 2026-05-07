@@ -14,9 +14,7 @@ Instead of static forms, users are welcomed into a **living 3D environment** —
 
 ##  Preview
 
-<p align="center">
-  <img src="public/img/1.gif" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/public/img/1.gif" width="100%" />
 
 ---
 
