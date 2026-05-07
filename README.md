@@ -15,7 +15,7 @@ Instead of static forms, users are welcomed into a **living 3D environment** —
 ##  Preview
 
 <p align="center">
-  <img src="public/img/1.gif" width="100%" />
+  <img src="public/img/1.png" width="100%" />
 </p>
 
 ---
