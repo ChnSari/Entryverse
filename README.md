@@ -93,25 +93,6 @@ Entryverse is built on a simple idea:
 
 ---
 
-##  Project Structure
-
-```
-/app
-  page.jsx
-
-/components
-  /canvas
-    City.jsx
-    View.jsx
-
-/public
-  /models
-    city.glb
-  preview.gif
-```
-
----
-
 ##  Installation
 
 ```bash
