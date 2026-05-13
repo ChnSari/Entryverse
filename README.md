@@ -185,7 +185,7 @@ Authentication logic is currently simulated.
 
 ##  License
 
-MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
